@@ -1,3 +1,8 @@
+
+
+
+
+
 <html>
 <head>
 	<title>Registration Form</title>
